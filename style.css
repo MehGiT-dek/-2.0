@@ -1,0 +1,42 @@
+body{
+   background-color:MidnightBlue;
+}
+p{
+    font-size:22px;
+    text-align:center;
+}
+header{
+    background-color:crimson;
+}
+main{
+    font-size:12px;
+    color: white; 
+}
+h1{
+    color: white;
+}
+h2{
+    background-color:goldenrod;
+    text-align:center;
+    font-size:40px;
+    font-family: cursive;
+}
+table{
+    border:1px solid indigo; 
+    border-collapse:collapse;
+}
+tr{
+   background-color:indigo; 
+   color:white; 
+   border:1px solid indigo;
+}
+td{
+
+}
+footer{
+    background-color:DarkSlateGray;
+    font-family: italic small-caps bold;
+    font-size: 40px;
+    color:bisque;
+    text-align: center;
+}
